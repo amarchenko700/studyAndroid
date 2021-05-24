@@ -7,4 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="ФонTextView">#2CC811</color>
+    <color name="ФонПервогоАктивити">#B7FF0D</color>
+    <color name="colorButton">#2196F3</color>
+    <color name="hintColor">#979797</color>
+    <color name="backGroundTask1">#E4D096</color>
+    <color name="backGroundTask2">#B8FFD8</color>
 </resources>
