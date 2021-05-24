@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/ФонПервогоАктивити"
+    android:background="@color/backGroundTask1"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -92,7 +92,8 @@
         android:id="@+id/testSwitch"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/textTestSwitch" />
+        android:text="@string/textTestSwitch"
+        tools:ignore="UseSwitchCompatOrMaterialXml" />
 
     <Button
         android:id="@+id/backToMain"
