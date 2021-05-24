@@ -12,4 +12,8 @@
     <string name="textBackToMain">Вернуться на главную</string>
     <string name="textTask1">Задание 1</string>
     <string name="textTask2">Задание 2</string>
+    <string name="hintPasswordText">Введите пароль</string>
+    <string name="hintTextPersonName">Введите имя</string>
+    <string name="hintPhone">Введите телефон</string>
+    <string name="hintEMail">Введите e-mail</string>
 </resources>
