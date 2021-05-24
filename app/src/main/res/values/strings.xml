@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">lesson1</string>
+    <string name="text_view">Это Text View</string>
+    <string name="type_something">Введите какой-то текст</string>
+    <string name="pressMe">Нажми меня</string>
+    <string name="counterText">Тут будет счетчик нажатий</string>
+    <string name="allOptionsOff">Все опции выключены</string>
+    <string name="allOptionsOn">Все опции включены</string>
+    <string name="textOptions1">Некая опция 1</string>
+    <string name="textOptions2">Некая опция 2</string>
+    <string name="textTestSwitch">Тестирование переключателя</string>
+    <string name="textBackToMain">Вернуться на главную</string>
+    <string name="textTask1">Задание 1</string>
+    <string name="textTask2">Задание 2</string>
 </resources>
