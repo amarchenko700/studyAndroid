@@ -16,4 +16,5 @@
     <string name="hintTextPersonName">Введите имя</string>
     <string name="hintPhone">Введите телефон</string>
     <string name="hintEMail">Введите e-mail</string>
+    <string name="textTask3">Задание 3</string>
 </resources>
